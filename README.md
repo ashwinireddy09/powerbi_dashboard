@@ -5,7 +5,8 @@ a crowdfunding platform like Kickstarter, the objective is to analyze campaign p
 ## Dataset used 
 https://github.com/ashwinireddy09/powerbi_dashboard/tree/main/Data%20set
 
-#Questionarie
+
+# Questions(KPI's)
 1. Convert the Date fields to Natural Time ( Currently the dates are in Epoch time Read the attached Artical for Reference on Epoch Time 
              https://www.epochconverter.com/ )
 2. Build a Calendar Table using the Date Column Created Date ( Which has Dates from Minimum Dates and Maximum Dates)
