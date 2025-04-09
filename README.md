@@ -3,8 +3,9 @@
 a crowdfunding platform like Kickstarter, the objective is to analyze campaign performance, user behavior, and funding trends to provide actionable insights. The goal is to support data-driven decisions that enhance user experience, improve platform features, and increase successful project outcomes.
 
 ## Dataset used 
+https://github.com/ashwinireddy09/powerbi_dashboard/tree/main/Data%20set
 
-
+#Questionarie
 1. Convert the Date fields to Natural Time ( Currently the dates are in Epoch time Read the attached Artical for Reference on Epoch Time 
              https://www.epochconverter.com/ )
 2. Build a Calendar Table using the Date Column Created Date ( Which has Dates from Minimum Dates and Maximum Dates)
