@@ -3,7 +3,7 @@
 a crowdfunding platform like Kickstarter, the objective is to analyze campaign performance, user behavior, and funding trends to provide actionable insights. The goal is to support data-driven decisions that enhance user experience, improve platform features, and increase successful project outcomes.
 
 ## Dataset used 
-https://github.com/ashwinireddy09/powerbi_dashboard/tree/main/Data%20set
+Data set
 
 
 # Questions(KPI's)
